@@ -11,8 +11,19 @@ body {
 }
 
 h1{
-    text-align: center;
     font-size: bold;
+    position: absolute;
+    left: 0;
+    top: 25%;
+    width: 100%;
+    text-align: center;
+
+}
+
+a{
+    position: absolute;
+    left: 44%;
+    top: 50%
 
 }
 /* Header */
@@ -35,7 +46,7 @@ h1{
     background-color: background-color: #e7e7e7; color: black; /* Gray */
     border: groove;
     color: white;
-    padding: 12px 28px;
+    padding: 1% 3%;
     text-align: center;
     text-decoration: none;
     display: inline-block;
