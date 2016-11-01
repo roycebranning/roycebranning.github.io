@@ -60,6 +60,7 @@ h2 {
     top: 25%;
     width: 100%;
     text-align: center;
+    font-size: 250%;
 
     opacity:1;  /* make things invisible upon start */
     -webkit-animation:moveTop ease-in 1;  /* call our keyframe named fadeIn, use animattion ease-in and repeat it only 1 time */
